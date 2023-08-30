@@ -1,5 +1,5 @@
 0
-52
+53
 __consumer_offsets 29 0
 __consumer_offsets 43 0
 __consumer_offsets 0 0
@@ -34,6 +34,7 @@ __consumer_offsets 11 0
 __consumer_offsets 20 0
 __consumer_offsets 47 0
 __consumer_offsets 18 0
+topic_kafka_learnkafka_aomtest 0 0
 __consumer_offsets 7 48
 __consumer_offsets 48 0
 __consumer_offsets 22 0
@@ -45,10 +46,10 @@ learnkafka_consume_aomtest 0 2
 __consumer_offsets 4 0
 __consumer_offsets 31 0
 __consumer_offsets 5 0
-__consumer_offsets 1 2
+__consumer_offsets 1 3
 __consumer_offsets 15 0
 __consumer_offsets 38 39
 __consumer_offsets 34 0
 __consumer_offsets 9 0
 __consumer_offsets 14 0
-learnkafka-aomtest 0 9
+learnkafka-aomtest 0 14
